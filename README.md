@@ -1,5 +1,5 @@
 # 💫 About Me:
-Engineering Student-Athlete at Washington University in St. Louis
+Medical Student at UTSouthwestern
 
 
 ## 🌐 Socials:
@@ -17,5 +17,3 @@ Engineering Student-Athlete at Washington University in St. Louis
 
 ---
 [![](https://visitcount.itsvg.in/api?id=agadin&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
